@@ -50,30 +50,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-
-##  Projetos em destaque
-
-- **[Anki Clone](https://github.com/KelviPascoal/anki-clone)** – Sistema de flashcards com autenticação JWT, Docker, Prisma e React.
-
----
-
-## Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelviPascoal&layout=compact&theme=radical" />
-</p>
-
----
-
-## Sobre mim
-
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Estácio
-- 💼 Experiência com sistemas e-commerces, CMS e produtos internos
-- 🤝 Gosto de trabalhar em equipe e aprender com outras áreas (produto, design, negócio)
-
----
-
 ## Contato
 
 <p align="left">
@@ -82,8 +58,3 @@
   <a href="https://github.com/KelviPascoal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KelviPascoal&style=flat-square&color=blue" alt="Profile views"/>
-</p>
